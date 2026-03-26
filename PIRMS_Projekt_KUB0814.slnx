@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/Solution Items/">
-    <File Path="PlcIn.cs" />
-    <File Path="PLCPoint.cs" />
-    <File Path="SupabasePoint.cs" />
-  </Folder>
-  <Project Path="PIRMS_Projekt_KUB0814/PIRMS_Projekt_KUB0814.csproj" />
-</Solution>
